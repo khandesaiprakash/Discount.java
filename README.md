@@ -1,2 +1,3 @@
 # Discount.java
- Find the discount of your items
+
+Find the discount of your items.
